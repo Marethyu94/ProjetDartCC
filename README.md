@@ -9,5 +9,6 @@ En appuyant sur la photo de profil, vous aurez accès aux différents onglets de
 - mes compétences linquistiques, 
 - mes hobbies, 
 - et mes expériences professionnelles. 
+
 Une fois que vous appuyez sur un de ces onglets, vous aurez les informations sous la forme d'une liste et il faut appuyer sur la barre supérieure pour revenir en arrière.
 Sur la page avec toutes les catégories, appuyez également sur la barre supérieure pour revenir sur la fenêtre avec les moyens de me contacter. 
