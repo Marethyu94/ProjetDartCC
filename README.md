@@ -6,7 +6,7 @@ Il consiste en une page d'accueil avec un nom, un prénom, un numéro de télép
 
 En appuyant sur la photo de profil, vous aurez accès aux différents onglets de l'application:
 - mes formations 
-- mes compétences linquistiques, 
+- mes compétences linguistiques, 
 - mes hobbies, 
 - et mes expériences professionnelles. 
 
